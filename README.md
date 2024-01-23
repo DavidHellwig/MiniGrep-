@@ -1,4 +1,4 @@
-#MiniGrep
+# MiniGrep
 
 ## Description
 This is a small rust program that acts as a smaller-scale version of grep (it does not contain every feature grep does). 
